@@ -1,9 +1,26 @@
 <!DOCTYPE html><html lang="en-US"><head>
+	<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1087319763484333');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1087319763484333&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 	<meta charset="UTF-8">
-		<title>Cozinhar Sem Culpa  SP1  R$ 29,90  serasuamelhorversao.com</title>
+		<title>Cozinhar Sem Culpa  SP1  R$ 14,90  Torne-se sua melhor versão</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-	<link rel="alternate" type="application/rss+xml" title="serasuamelhorversao.com � Feed" href="https://serasuamelhorversao.com/feed/">
+	<link rel="alternate" type="application/rss+xml" title="sera sua melhor versao" href="https://pay.cakto.com.br/yc8tp7d_556749/">
 <link rel="alternate" type="application/rss+xml" title="serasuamelhorversao.com � Comments Feed" href="https://serasuamelhorversao.com/comments/feed/">
 <script async="" src="https://www.clarity.ms/tag/r1ow7mvqqq"></script><script async="" src="js/fbevents.js"></script><script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/serasuamelhorversao.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
@@ -58,33 +75,6 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://serasuamelhorversao.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserasuamelhorversao.com%2Fsp1-csc-2990%2F">
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://serasuamelhorversao.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserasuamelhorversao.com%2Fsp1-csc-2990%2F&format=xml">
 <meta name="generator" content="Elementor 3.29.2; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap">
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CRF38E84Y3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-CRF38E84Y3');
-</script>
-<!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '9417924388296963');
-fbq('track', 'PageView');
-	fbq('track', 'ViewContent');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=9417924388296963&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Meta Pixel Code -->
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
